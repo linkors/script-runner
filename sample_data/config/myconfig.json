@@ -1,0 +1,14 @@
+[
+  {
+    "service": "user",
+    "command_to_run": [
+      "nodemon"
+    ]
+  },
+  {
+    "service": "main",
+    "command_to_run": [
+      "yarn dev"
+    ]
+  }
+]
